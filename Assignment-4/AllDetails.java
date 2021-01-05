@@ -1,3 +1,5 @@
+// There is class People which is a super class and having attributes(Citizen-ID,name,Mobileno) . All other classes inherited to people class are Teacher(subject,salary,school_name), Student(branch,rollno,mark_secured), Advocate(branch,Experience_in_years,type(jr/sr), income), Doctor(specialization,Experience,income). Input appropriate data through constructor (use super) and display the details of each profession.
+
 class People {
 
     String phNo;
